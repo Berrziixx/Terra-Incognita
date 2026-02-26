@@ -9,8 +9,8 @@
   "name":"obj_dialog_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"intro dialog",
-    "path":"folders/intro dialog.yy",
+    "name":"dialog",
+    "path":"folders/dialog.yy",
   },
   "parentObjectId":null,
   "persistent":true,

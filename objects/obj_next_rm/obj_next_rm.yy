@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"next",
-    "path":"sprites/next/next.yy",
+    "name":"spr_next",
+    "path":"sprites/spr_next/spr_next.yy",
   },
   "spriteMaskId":null,
   "visible":true,

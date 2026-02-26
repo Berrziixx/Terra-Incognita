@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"intro dialog",
-    "path":"folders/intro dialog.yy",
+    "name":"dialog",
+    "path":"folders/dialog.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -9,8 +9,8 @@
   "name":"obj_txtb_dialog_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"intro dialog",
-    "path":"folders/intro dialog.yy",
+    "name":"dialog",
+    "path":"folders/dialog.yy",
   },
   "parentObjectId":null,
   "persistent":false,
