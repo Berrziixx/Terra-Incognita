@@ -2,15 +2,15 @@
 // QUESTION DATA
 // --------------------
 
-question = "Ano ang tawag sa grupo ng mga planeta, buwan, asteroid, at kometa na umiikot sa isang bituin?";
+question = "Ano ang pangalan ng North Star?";
 
 choices = [
-    "Sun",
-    "Jupiter",
-    "Solar System"
+    "Sirius",
+    "Vega ",
+    "Polaris"
 ];
 
-correct_answer = 2; // Solar System (arrays start at 0)
+correct_answer = 2;
 
 selected = -1;
 show_result = false;

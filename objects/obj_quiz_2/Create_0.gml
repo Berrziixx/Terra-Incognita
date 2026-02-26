@@ -2,15 +2,15 @@
 // QUESTION DATA
 // --------------------
 
-question = "Ano ang tawag sa grupo ng mga planeta, buwan, asteroid, at kometa na umiikot sa isang bituin?";
+question ="Alin sa mga sumusunod ang katangian ng mga terrestrial planets?";
 
 choices = [
-    "Sun",
-    "Jupiter",
-    "Solar System"
+    "Maraming singsing",
+    "Mabilis ang pag-ikot ",
+    "Gawa sa bato at metal"
 ];
 
-correct_answer = 2; // Solar System (arrays start at 0)
+correct_answer = 2; // true answer
 
 selected = -1;
 show_result = false;

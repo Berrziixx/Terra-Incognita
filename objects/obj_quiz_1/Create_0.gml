@@ -2,15 +2,15 @@
 // QUESTION DATA
 // --------------------
 
-question = "Ano ang tawag sa grupo ng mga planeta, buwan, asteroid, at kometa na umiikot sa isang bituin?";
+question = "Ano ang tawag sa mga malalaking grupo ng mga bato sa pagitan ng Mars at Jupiter?";
 
 choices = [
-    "Sun",
-    "Jupiter",
-    "Solar System"
+    "Asteroid Belt",
+    "Milky way ",
+    "Venus"
 ];
 
-correct_answer = 2; // Solar System (arrays start at 0)
+correct_answer = 0;
 
 selected = -1;
 show_result = false;
