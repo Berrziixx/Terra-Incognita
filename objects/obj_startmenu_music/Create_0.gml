@@ -1,0 +1,1 @@
+menu_sound = audio_play_sound(snd_tellus_theme, 1, true);

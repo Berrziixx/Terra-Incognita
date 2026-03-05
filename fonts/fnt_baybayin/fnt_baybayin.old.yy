@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Font2",
+  "%Name":"fnt_baybayin",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":25,
@@ -97,7 +97,7 @@
   "last":0,
   "lineHeight":30,
   "maintainGms1Font":false,
-  "name":"Font2",
+  "name":"fnt_baybayin",
   "parent":{
     "name":"assets",
     "path":"folders/assets.yy",

@@ -2,15 +2,16 @@
 // QUESTION DATA
 // --------------------
 
-question = "Alin sa Renewable Resources ang galing sa salitang mga organikong bagay?";
+question = "Alin sa tatlong pagpipilian ang tama para sa pagkuha ng enerhiya?";
 
 choices = [
-    "Solar Panel o Tipon-sinag",
-    "Windmill o Ginilingang-hangin",
-    "Biomass o Biomasa"
+
+    "Ang Solar Panel",
+    "Ang Hydro Dam ",
+    "Biomass"
 ];
 
-correct_answer = 2;
+correct_answer = 0;
 
 selected = -1;
 show_result = false;

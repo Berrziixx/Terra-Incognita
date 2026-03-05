@@ -6,7 +6,7 @@ question = "Pano nabubuo ang fossil fuel?";
 
 choices = [
     "Mula sa natunaw na bato",
-    "Mula sa organikong bagay na-expose sa init at presyon sa loob ng milyong taon",
+    "Mula sa organikong bagay",
     "Mula sa tubig at hangin"
 ];
 
