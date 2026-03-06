@@ -49,7 +49,7 @@ if (show_result)
 {
     next_timer += 1;
 
-    if (next_timer >= room_speed * 2) // 2 seconds
+    if (next_timer >= game_get_speed(gamespeed_fps) * 2) // 2 seconds
     {
         room_goto(rm_rocks_6);
     }

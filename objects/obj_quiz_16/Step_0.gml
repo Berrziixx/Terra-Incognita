@@ -35,7 +35,7 @@ if (mouse_check_button_pressed(mb_left) && !show_result)
     }
 }
 // AUTO GO TO NEXT ROOM WHEN CORRECT
-if (show_result) { next_timer += 1; if (next_timer >= room_speed) // 1 second delay 
+if (show_result) { next_timer += 1; if (next_timer >= game_get_speed(gamespeed_fps)) // 1 second delay 
 	{ show_result = false; next_timer = 0; 
 		room_goto(rm_energy_q_2);
 		}

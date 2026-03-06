@@ -49,7 +49,7 @@ if (show_result)
 {
     next_timer += 1;
 
-    if (next_timer >= room_speed * 2) // 2 seconds
+    if (next_timer >= game_set_speed(60, gamespeed_fps) * 2) // 2 seconds
     {
         room_goto(rm_energy_baybayin_q_2);
     }

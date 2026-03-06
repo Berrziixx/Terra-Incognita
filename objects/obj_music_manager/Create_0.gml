@@ -38,7 +38,7 @@ ui_fade_speed = 0.08;
 
 // TIMER
 song_display_time = 0;
-song_display_max = room_speed * 3;
+song_display_max = game_get_speed(gamespeed_fps) * 3;
 
 // DISC ROTATION
 disc_rotation = 0;
