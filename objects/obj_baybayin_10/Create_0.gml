@@ -12,10 +12,12 @@ global.font_main = fnt_menu; // font for the question text
 question = "Ano ang tamang Baybayin ng gilingang hangin";
 
 choices = [
-"gailainganga hangaina",
-"gailainga hangai",
-"hangaina gailainganga"
+"ulainga",
+"hangaina",
+"taubaiga"
 ];
+
+choice_count = array_length(choices);
 
 correct_answer = 0;
 
@@ -24,6 +26,7 @@ hidden = [false,false,false];
 show_result = false;
 next_timer = 0;
 
+selected_answer = -1;
 
 // --------------------
 // SPRITES
