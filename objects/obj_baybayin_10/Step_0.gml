@@ -55,6 +55,6 @@ if (show_result)
 
     if (next_timer >= game_get_speed(gamespeed_fps) * 2) // 2 seconds
     {
-        room_goto(rm_energy_baybayin_q_1);
+        room_goto(rm_bio_mass);
     }
 }
