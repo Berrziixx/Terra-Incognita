@@ -39,7 +39,7 @@
   "option_android_icon_hdpi":"${base_options_dir}/android/icons/hdpi.png",
   "option_android_icon_ldpi":"${base_options_dir}/android/icons/ldpi.png",
   "option_android_icon_mdpi":"${base_options_dir}/android/icons/mdpi.png",
-  "option_android_icon_xhdpi":"${base_options_dir}/android/icons/xhdpi.png",
+  "option_android_icon_xhdpi":"${options_dir}/android/icons/xhdpi.png",
   "option_android_icon_xxhdpi":"${base_options_dir}/android/icons/xxhdpi.png",
   "option_android_icon_xxxhdpi":"${base_options_dir}/android/icons/xxxhdpi.png",
   "option_android_install_location":0,
